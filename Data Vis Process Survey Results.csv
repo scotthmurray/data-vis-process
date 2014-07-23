@@ -1,0 +1,345 @@
+Timestamp,Formal Title,Layperson Title,Dinner Party Scenario,About how many people are in your organization / company / firm?,About how many people are in your immediate team / group / department?,Please describe your data visualization process.,What kinds of expertise do you personally contribute during this process?,What kinds of expertise are contributed by others engaged in the process?,For whom do you produce work?,Who is the ultimate audience for your visualizations?,About how often do you feel your visualizations are successful?,"For you, what constitutes ""success""?",What other questions should I have asked here?,Do you give permission to be quoted and referenced by name (non-anonymously) in my research?,"Do you give permission to have all your responses, including your name (but not email address) to be included in a publicly accessible data set, for other process geeks to reference?",Do you give me permission to send you a clarifying question or two via email?,Your name
+"Apr 29, 2014 10:42 AM",PhD Student,history phd student,"I research immigrants in London in the early 1800s, and look at the types of factors that got immigrants into trouble with locals.",thousands,1,"I start with excel, and I get the data into the format I want it in.
+Then I start cruising around the web looking for people who have already used that type of data before to see how they visualised it.
+Then I make a cheap and cheerful excel graph, maybe as a column graph.
+Once I'm happy with it, I start getting finnicky. I do my visualisations in GIMP, which is the open source version of PhotoShop.
+I use GIMP instead of Illustrator 1) because I know how to use it, and 2) because I want pixel-level control rather than vector graphics.
+I operate at about 600dpi so that no matter what I do it will look good later at any size.
+Then I visit the Farrow and Ball (paint company) website to select a colour palatte of complimentary colours, which I'll use on the visualisation.
+I then take the Excel graph I made, blow it up really big, and trace it in GIMP, pixel by pixel. I make any stylistic changes I want - keeping true to the data, and continue adding material, notes, tags, labels, axes, etc, until I am happy
+I rely a lot on layers so I can add something new and experiment with it until I get what I want.
+Then I save it and go away for a week or so.
+When I come back I read Edward Tufte and remind myself to get rid of chart-junk. Remind myself that every pixel has to mean something.
+Then I go through and delete everything I can without losing meaning.
+I show it to my wife and iterate until I'm satisfied.
+It's inefficient as hell, but it's my way.",I am a one-man show so I have to do it all on my own.,I always keep an eye on what other people have done or are doing in visualisation. I think Edward Tufte is a good read for some core principles.,for the benefit of academia.,Historians,About half the time,People remember it. They show it to other people as an example of good work.,,"Yes, use my name","Yes, share my raw responses with others","Yes, I would love to hear from you",Adam
+"Apr 29, 2014 10:50 AM","""Data Analysis and Presentation"" - because I'm self-employed",Data Analysis Consultant or Data Vis Consultant,"""People give me a lot of data they've collected, and I help them analyse it, find interesting things in it, and make charts, graphs, or interactive web sites with it.""",1,1,"Start in excel if possible - do some simple pivots, charts there.
+Go to python usually; do some stats, reformatting, analysis, charts along the way.
+Show client some numbers/images in excel, python, sometimes tableau or Illustrator refined output.  Do mockups using these static graphs (wireframes) for how an interaction would work, or what a good layout might be.
+Go to D3/web tools for final design. (Data formatted for web in python usually.)","Analysis, mining, tools/techniques/design for vis, d3 coding.",Other people are better at graphic design than I am. I am still learning.,"External clients (e.g., for someone who contracted you to make the thing)",depends on client,About half the time,"Client is happy (firstly); design is clean, code doesn't suck from my perspective, vis shows something interesting or allows people to find interesting things in it.  Work product was used (low bar, but not as low as you think for a consultant). Collaboration was fun on both sides.","Tools, more specifically?
+Pain points in the process? (I find the intermediate fast-vis-sketch stage still kind of tough, and I hope Lyra et al make that easier. Python is still not superb at effortless charts, although recent tools like seaborn and the new ipython widgets are improving that.)","Yes, use my name","Yes, share my raw responses with others","Yes, I would love to hear from you",Lynn Cherny
+"Apr 29, 2014 10:53 AM",Analyst,Work with data,Tell stories with data.,2000,10,"Develop hypothesis about the proble.
+
+Learn what data is available
+
+Get to know the domain of the data source
+
+Get to know the data
+   Understand how it can be drilled down and rolled up
+
+Create a lot of histograms and scatter plots to learn about distributions and correlations in the data
+
+Use ggplot to create visualizations with multiple layers that tell a story to support or refute your hypothesis","Critical thinking
+
+Acesssing data through various sources. APIs, SQL, and general data munging
+
+Ggplot",Often visualizations are polished in adobe creative suite or made interactive with JavaScript and hosted on the web.,"External clients (e.g., for someone who contracted you to make the thing), Internal stakeholders (e.g., for another department in your organization)",business decision makers,More often than not,An appropriate decision is made given the available data,,"Yes, use my name","Yes, share my raw responses with others","Yes, I would love to hear from you",Andrew Harris
+"Apr 29, 2014 10:57 AM",co-founder and design director at Accurat,"designer (or, information designer)","I have an information design company, and I try to compose beautiful images with data",around 20,around 20,"I love different parts of the ""creative"" process,
+Essentialy I’d say, the beginning and the end. 
+It's very exciting trying to come up with the best ideas and solutions, visually speaking and at the same time it is very satisfying wrapping up a project and seeing it comes to life. 
+
+The beginning is the anticipation of the project, it’s so exciting when you start, thinking about where the project could go and the opportunities it could open up.
+The beginning is also doing research to find material that inspires me. 
+Then, with all these images in mind I normally start drawing, I love coming up with visual ideas, and the immediacy of the sketch phase. 
+
+Within my data-visualization process, I sketch a lot, and I'd define 3 main phases for my sketching:
+
+(1) a first phase when I am basically interested in the main ""categories"" of data, meaning the number of variables we have - the kind of topics we are talking about - the possible correlations - the total number of possible elements we might have:
+macro categories to start sketching some visual possibilities out
+
+
+(2) then a second phase where I would just re-sketch again, or elaborate the first ideas after we have in a way verified the numbers - analysed the numbers a little more in depth (relying on my team at Accurat)
+
+
+(3) and to conclude a final phase that is when we basically already have the idea for the analysis - the visual model - how to shape visually the story and then we really sketch with data, and see how they are actually really performing, in illustrator or our developers actually coding and then eventually we refine the first visual ideas to match the best way to display quantities.
+
+","concept, ideas, visual ideas, sketches, visually refining the details","data analysis, data coding, visual drafts","External clients (e.g., for someone who contracted you to make the thing)",readers and final users,More often than not,"honestly, something that I enjoy doing and that makes me learn.
+Anything that makes me feel ""I've done the right thing, I enjoyed doing it, I've been learning, or growing, or improving myself"".
+Of course the feedbacks from the community, the clients and the final users are very important to understand if what you are doing is going into a reliable direction.
+
+",not that I have in mind now,"Yes, use my name","Yes, share my raw responses with others","Yes, I would love to hear from you",Giorgia Lupi
+"Apr 29, 2014 11:13 AM",Senior MySQL DBA,i know computers,"Know all those little pieces of information you enter on all the sites all over the internet ? I'm responsible for the systems that store that information, make it available to whoever writes the software. I also make sure the data NEVER dies.",300,3,"We use graphite. so carbon. so 3 columns
+
+name   value   unix_timestamp
+
+passed via nc to a tcp port from various places.
+
+this gets me a generic overview of the curve of the data, spikes, irregularities etc.
+
+1 minute resolution there is enough to notice problems.
+
+I have a pattern for doing sub second graphing using smoothiecharts.
+
+for super basic visualization, it's a typical pipe of ""sort | uniq -c | sort -n"" to very quickly analyze data.","data, the procedure, analysis, mitigation of found results.","obviously graphite, smoothiecharts, the basic GNU utilities. sometimes expertise on javascript stuff is required that i do not have","Yourself, Internal stakeholders (e.g., for another department in your organization)",technical people,More often than not,"identifying a pattern, correlating cause-effect, tools staying out of my way and not throwing too much shit around.","""could someone else without your title on the business card pull that off""
+""desired resolution of time series data""
+","Yes, use my name","Yes, share my raw responses with others","Yes, I would love to hear from you",Gennady Gurov
+"Apr 29, 2014 1:42 PM",information designer,graphic designer,"Im a graphic designer, and i work with large corporate companies helping them visualise date for their tenders for new contracts",6,6,"receive the data from client
+sit with client and make sure data is fully understood
+question data, and any queries, iron out errors perhaps
+come up with concepts for visualising data
+Visualise data
+Develop design through process email rebounds with client","understanding the data clearly,
+helping the client get the correct message from their data
+giving the data the visual appeal it needs","client - provides data
+no others","Yourself, External clients (e.g., for someone who contracted you to make the thing), Internal stakeholders (e.g., for another department in your organization)",The government,Always,when a client describes the graphic as as good as sex - (its happened before),,"Yes, use my name","Yes, share my raw responses with others","Yes, I would love to hear from you",Josh Jones
+"Apr 29, 2014 7:09 PM",Writer/Data Visualizer,Graphic Designer,My day job is a technical writer. But my dream job is to be a data visualizer. I like to take information scrapped from the entertainment industry and see if I can make it into a interesting picture that's just a wee bit more understandable.,1,1,"I create folders for any idea that pops into my head. When I have time I dig into one and see if I can find a data set that fits my needs. When I do, that great. If there isn't one, I look for data in bits and pieces that might work in the scenario. I put it in Excel and start playing around with it, cleaning it up, and try to spot something interesting related to my original goal.After finding parts of the data that will work, I begin testing ways to put that data into a visual chart/graph/whatever. I'll know which one will work when the sketches begin to look right. Then I moves onto the programs (Gephi, ORA, or maybe straight to Illustrator). From then on it's a matter of cleaning up and tweaking the graphic till it feels good. After it's nearing completion I begin writing up the legend and text. My trusted friends are shown the results and give me comments and advise and I add/subtract/correct as needed.","I am the whole research, art, graphics, programming department. ",I have a few trusted individuals whom I show things to for feedback and proofing.,"Yourself, attempting to move into this field from my technical writing career",People who love pop culture,More often than not,"After a piece is finished and I take one last look at it and what I see makes me smile, I know I got to the place I wanted to be.",,"Yes, use my name","Yes, share my raw responses with others","Yes, I would love to hear from you",dave columbus
+"Apr 29, 2014 7:11 PM",designer,programmer,"programmer, working on the computer stuff",4,2,"conceptualize the project, analyze the data and determine what would be the best visual form to represent the data;
+data collection and processing;
+further develop visual forms ...
+
+probably going through a couple of iterations of the steps","all aspects: from sketching up the idea to final image generation.
+
+programming with Python or Processing, 3D rendering with Maya or Rhino; 
+sometimes using Objective C","I have a very small team of 2, so we work on everything together","Yourself, External clients (e.g., for someone who contracted you to make the thing)",general public,More often than not,"when projects are well received by the clients, or being selected to conferences or publication venues, etc","what type of visualization
+what type of data
+what tools used","Yes, use my name","Yes, share my raw responses with others","Yes, I would love to hear from you",Sean Zhai
+"Apr 29, 2014 8:28 PM",Director of Performance Improvement & Strategic Analytics,Health Care Data & Information nerd,"I combine and transform multitudes of health and socio-economic data sources into information and insights for members, clinicians, and communities to foster continuing improved health care and well being.",40,1,"1) For whom are the insights/narrative/exploration intended to inform?
+2) What question(s) or unknowns are being sought out?
+3) What is/are the potential action(s) the consumers of the data visualization may take?
+4) What are the sources of data (and associated caveats, assumptions, etc.), and which of these matters to the outcome and the consumers of the data visualization?
+5) What are the tools available to visualize ... and what form or forum will the visualization be presented for the consumers of the data visualization?
+6) Get to work! Draft, iterate, question (the data, the assumptions, the data viz approach), elicit feedback.","All steps - I current perform everything from data warehouse development, to data cleansing, ETL, coding, statistical modeling, data visualization, exploratory & explanatory analytics, presentation, publication, and recommendations.","Clinical insights from clinicians, community insights from those individuals within a community, general data visualization insights gathered over time from other experienced practitioners. ","Yourself, Internal stakeholders (e.g., for another department in your organization), External stakeholders (clinicians ","Internal staff, health care partners, members, clinicians",More often than not,I have fulfilled the purpose of the effort and facilitated the insight and/or action of the consumers of the data visualization in a way they feel informed and empowered to act.,,"Yes, use my name","Yes, share my raw responses with others","Yes, I would love to hear from you",David Napoli
+"Apr 30, 2014 8:36 AM","Interactive Graphics Editor, Time.com",Data reporter,"""I did that thing where you take a personality test and it tells you what state you belong in.""",500,4,"Ideally, I start with a dataset and get it into a format I can understand and manipulate -- usually SQLite for highly structured tables and Mongo for everything else. This might be a large data file from the government, like all auto recalls or FEC donations, or something less structured like a large text corpus. Then I poke around and try to recreate existing top-line data summaries so that I can be confident that my own analysis is accurate. I've begun using R more for complex datasets as well, though I'm an R toddler.
+
+From there, I sketch ideas with dry-erase markers on the window of my office, then recreate them with Raphael or D3. 
+
+This is the ideal process, I should add. More often, it's frantically trying to scrap something together to meet a news peg.","Facility with data of a variety of formats
+Proficiently with SQL and MongoDB for analysis
+Rudimentary statistics -- wish I had more
+Dataviz design
+Javascript
+More Javascript
+","I work with a wonderful designer who takes raw ideas and makes them beautiful. I then recreate his designs with SVG/CSS. 
+
+I also work with a backend engineer when necessary, though I prefer to keep projects to the client","Internal stakeholders (e.g., for another department in your organization)",Time.com readers,About half the time,"The bean counters look at page views, and I certainly care about that. If no one sees something, it wasn't very effective. But I try to calibrate that figure against the expected audience for the topic -- a sort of ""page views over replacement"" figure.
+
+I also ask myself:
+--Did this visualize data in a way that contributed to a topic already being discussed?
+--Did this analysis unearth observations about the data that were non-obvious or previous unreported?
+--Was it fun to play with?","Interactivity -- when appropriate, how often used vs. flat images or unresponsive charts etc. ","Yes, use my name","Yes, share my raw responses with others","Yes, I would love to hear from you",Chris Wilson
+"Apr 30, 2014 8:37 AM",Director of User Experience,I solve design problems,I work on the design digital projects from a behavioral psychology perspective,>500 to a lot,20,"I start by thinking about the the context the data was collected in to understand to context it can accurately be used to analyze
+
+Next I look at how the data can be grouped into series 
+
+Then I look for patterns and outliers in those many, many series 
+
+Finally I think about the patterns and outliers in context of the data collection and consider if it's interesting.","Depends but can vary from big idea to actual algorithm. 
+
+Mostly I try to keep the visual honest.","Visual design chops
+Programming
+Interaction design/animation
+Project Management
+Resourcing the right people
+Paying for the fucking thing
+","Yourself, External clients (e.g., for someone who contracted you to make the thing), Internal stakeholders (e.g., for another department in your organization)",anyone with eyes & || ears,About half the time,"interest from others, questions, candor, challenge ",Maybe favorite data format or tools.  ,"Yes, use my name","Yes, share my raw responses with others","Yes, I would love to hear from you",Chad Vavra
+"Apr 30, 2014 9:36 AM",Data Scientist,Developer,I write software for a medical startup. ,12,3,"We hire a designer to make the html and css. I do some data exploration via SQL to see what I want to display. Then I write software to procedurally retrieve data from the database via a crud json app. Then I search mbostock's gists to see if there is anything close to what I want to display using d3. I import the javascript and try to get it working with my json data. Usually realize additional information is needed, then I write more software to do additional server side processing and formatting. Then I have a dynamic report generation tool.  ","Everything, full-stack. I import the data (and clean it), write the SQL, figure out what data we have, write the server side retrieval, and modify/create d3 visualizations.
+
+Granted, these are dynamic reports that can run on all of our data with user input. I do not actually make any business decisions based on the outcome of the reports.  ",I usually get feedback on what color the fonts should be and the thickness of line patterns. ,"Yourself, Internal stakeholders (e.g., for another department in your organization)",The CEO,About half the time,Giving enough data so that our decision making processes are well informed. ,"Huge difference between static and dynamic visualizations, not sure how to quantify that into topical questions though. ","Yes, use my name","Yes, share my raw responses with others","Yes, I would love to hear from you",Tom Marthaler
+"Apr 30, 2014 9:37 AM",Founder,Computer science teacher,"My superhero title ""big G"" g for Genevieve and also Learning Guardian (given to me by a client). I run a creative computer science education company. Workshops for teachers, learners and others. Write curriculum for private clients. ",2 permanent plus 6+ freelancers ,4,"The data visualisation is for a digital classical ballet about Computing (as a subject). 
+Taking the theory from England's new Computing PoS. Breaking it down to key terms then applying abstract activities with the students to decide what imagery should the visualisation should look like. Simultaneously what the ballet choreography should look like based on terms: array, binary, Boolean, algorithm, data structures, loops, functions, Boolean algebra/ DeMorgan's law. Logic gates etc. ","Computer Science theory, ballet background and teaching. Some basic JS web coding.",Data Visualisation experts based in Brighton UK; Data Scientists who use visualistion extensively. General web developers for skills and advice. UX designers.Kinect developers. ballet instructors/ choreographers. Computer Science Lecturers. Creative coders. Music tech students. Videographers for projection technics for curved screens. ,"Yourself, Internal stakeholders (e.g., for another department in your organization)",General public and educators ,About half the time,"The imagery invokes a desired response. Such as ""that looks like array"". ",,"Yes, use my name","Yes, share my raw responses with others","Yes, I would love to hear from you",Genevieve Smith-Nunes
+"Apr 30, 2014 9:40 AM",Engineer,software developer,I turn numbers into pixels.,12,7,"0. have questions to answer with data
+all my projects start by having at least one question and some data
+
+1. understanding the data
+i usually do some simple filtering and aggregating to get a sense for what data is available and get oriented. maybe excel, maybe unix utils + a little code.
+
+2. review the questions im trying to answer with the data
+once im oriented in the data i start mapping out what data is useful for answering the questions at hand
+
+3. find/collect more data
+ive never had everything i needed in one place from the start. these days im working in an app so i can add new data collection points if need be. usually i just need to lookup (join) records from different sources to create the dataset i need.
+
+4. sketch/prototype
+quickly get ideas on paper or on pixels. usually try out different representations to see what might convey patterns the best.
+
+5. get design help
+constantly show progress to teammates / friends to get feedback and refinement.","ideation, quick implementation / prototyping, some design and ux considerations. tools and infrastructure.","design (visual, data, ux). infrastructure. ","Yourself, External clients (e.g., for someone who contracted you to make the thing), Internal stakeholders (e.g., for another department in your organization), product",myself,More often than not,i gain understanding and can share that with my target audience,"what is your background? datavis is very interdisciplinary, would be interesting to hear where people came from","Yes, use my name","Yes, share my raw responses with others","Yes, I would love to hear from you",ian johnson
+"Apr 30, 2014 9:58 AM",DataViz/UI/UX Engineer,Maalej,I bring data to life through interactive visualizations,20,3,"1- Categorize the data type (time series, relations, hierarchical, ...)
+2- Study the existent examples
+3- Draw manually a mockup
+4- Start implementation",Open Data & OpenGov Projects,"Processing, cleaning and preparing the data ","Yourself, External clients (e.g., for someone who contracted you to make the thing)","Clients, Simple users",Always,"Users Feedbacks, Cross browsing, Responsive design",how do you consider if a visualization is Relevant or not and what are the criteria.,"Yes, use my name","Yes, share my raw responses with others","Yes, I would love to hear from you",Maalej Abdelaziz
+"Apr 30, 2014 11:00 AM",UX Developer,Programmer,I make stuff appear on screens.  I also make sure that stuff works. i.e. Digital Carpentry,35,10,"It first starts out trying to consider what the customer's problems. Finding out what they need, more than what they want.
+
+From there, I try to understand what data I can get out of whatever they want to visualize/interact with.  
+
+After I have the data, I start thinking about how I can combine bits and pieces to get interesting things.
+
+Once I have an idea of what I want to do, I spend quite a bit messing around with charting libraries (mostly d3.js) to see how to do it.
+
+Then I spend a bunch of time actually making the thing.
+
+Then there's a lot more work happening with test to make sure it works the way it should.
+
+That's pretty much it. ","Mostly from a technical level -- how to store/get stuff, how to actually make it, etc...","I'm terrible with colors, so the designers on our team help with that, as well as layout, fonts, etc...
+
+Testers have the patience to use the software over and over.
+
+Product Manager ideally deal with a lot of the contract stuff like burn rates etc...","External clients (e.g., for someone who contracted you to make the thing)",Good Question,More often than not,"I like to get other people to try it out.  When they say stuff like ""I don't know if I'd be able to use your app because the visualization is so cool!"", I have some confidence that I've done well.",,"No, keep my response anonymous","Yes, share my raw responses with others","Yes, I would love to hear from you",
+"Apr 30, 2014 12:30 PM",Founder,"Nerd, entrepreneur",Combine data from medical devices and wellness trackers and visualize it for people with diabetes and their healthcare professionals.,5,5,"1) Think about the questions that need to be answered. Write them down.
+2) Draw some scetches on paper.
+3) Try validating results of 1 and 2 with the intended audience
+4) Get real data.
+5) Build visualizations according to scetches, using real data.
+6) Learn, iterate, think of color use, axes, ticks, other details.
+7) Polish, let an AD put the finishing touches in.","Domain expertise, infoviz theory & practice, coding, project management, ...","Infoviz theory & practice, coding, graphics design",Yourself,People with diabetes and their healthcare professionals,More often than not,"Being subjectively happy with the result, knowing or feeling that there's nothing left to improve.
+Acknowledgment from audience.","How the processes have evolved, has someone found some research or good guidelines they've found useful?
+Any negative experiences regarding processes people have learned from? What has not worked?
+In more detail, how much effort per each part / phase of the process.","No, keep my response anonymous","Yes, share my raw responses with others","Yes, I would love to hear from you",Mikael
+"Apr 30, 2014 1:17 PM",Lead Oracle DBA,Database Administrator,I make unpleasing sequences of 0s and 1s into pleasing sequences of 0s and 1s. I keep databases up and running and help users/scientists get useful information out of them to make better MS and Hemophilia drugs. ,5000,12,"Not always in this order: 
+
+o Pour over the data. It is usually already loaded into a RDBMS at this point. I help customers with their data although I don't always understand 100% of it. A lot of the visualizations I do are database performance tuning related, so performance counters gathered from running databases and queries. This tuning information is something I do understand 100%. 
+
+o I consider the immediate question being asked and if I can tease the answer from the data I have (or find a direction that might give me insight into the answer). I collect other interesting questions that pop into my head when working with the data to deal with later or if I get stuck and need a 'nudge'. 
+
+o I work on organizing / summarizing the data. Usually spend a lot of time in SQL at this point. 
+
+o I sketch out/doodle some ways I might like to see the data and choose the most promising visualization. This can be something with prior art (like d3js demo pages) or something totally custom. Usually something in-between where I use a demo as a springboard and customize it. The totally custom are the most frustrating and satisfying at the same time. Hey look what I can do! 
+
+o Get the data into JSON or CSV and fire up tributary.io or jsfiddle
+
+o Begin some iterations to start fleshing out the visualization. Fork a bunch of times so I can go off on tangents. 
+
+o When I'm happy with it, I isolate the JS code from the code playground environment so I can implement in the web-ish language of choice (Application Express, Perl, Java+Play Framework). ","If I had 3 feet I would have one planted in each of these areas : 
+
+1) Art/Graphic Design - from family printing business, jobs at service bureaus, and classes in Freshman/Sophomore years.  
+
+2) Software Development and Math - From Junior/Senior years of college. I was a software developer for the 1st half of my career (10 years)
+
+3) Database Administration - 2nd half of career (10 more years) - New position I started after getting tired of a pure software development grind. ","Feedback from end users. 
+Feedback from other developers. 
+
+I try to bring them good options and starting points. 
+","Yourself, Internal stakeholders (e.g., for another department in your organization), To show off on tributary.io :) ",Me,About half the time,"1) Produce something shiny not just for the purpose of producing something shiny, but that gives some insight I wouldn't be able to get out of Excel Chart Wizard and typical default graphing libraries. 
+
+2) Produce something that people 'get' without additional explanation. Or with minimal extra context. Maybe they have domain knowledge and are excited about the data. These are my people. 
+
+3) Less is more. ",Ratio of time spent on experiments vs things that see the light of day. ,"Yes, use my name","Yes, share my raw responses with others","Yes, I would love to hear from you",David Mann
+"Apr 30, 2014 5:54 PM",Data Scientist,Data Scientist,tell stories.,120,6,"Get the Data:
+~90% of the process. I often work with big-ish data so runtime aggregation is usually not an option. Designing denormalized tables or views is the answer. Then serve this up with a quick app framework like Flask. I like this minimal framework because it can be as stripped down as I need it to be or, when the time comes, can scale up to a fully featured dashboard with auth, rest api etc. Then try out a few quick visualizations in my IPython notebook using matplotlib or similar plotting package. This give me the 'wireframe' for designing the user-facing viz. Now I can decide whether it is worth the dev time to build this out in d3/high charts/google viz etc. At this point its just a matter of developing the view in Flask. ",Everything.,"I occasionally get input from XD, engineering and product for domain knowledge.","Yourself, External clients (e.g., for someone who contracted you to make the thing), Internal stakeholders (e.g., for another department in your organization)",described above,About half the time,minimal development time to directly address user story.,?,"Yes, use my name","Yes, share my raw responses with others","Yes, I would love to hear from you",chad hokama
+"May 1, 2014 1:22 AM",assistant professor,professor,I research how new computational methods can help shed lights on old and new interesting questions in social sciences and practical cases. And I teach this skill to students in my business school.,~5000 students (and ~ 100 tenured professors),25,"- discussion with domain specialists
+- identification of their dream hopes  (""I don't know if we could do that, but that wd be really great"")
+- I sketch a solution
+- data collection, parsing, processing, visualization, interaction (Ben Fry's 7 steps reduced here to 5). All steps involve feedback by the domain.specialist.
+- delivery of the product: an academic paper, some open source lib, and more ideas for future personal projects","- seeing a problem as one that a data-intensive logic can help solve/help advance on. That's really the key contribution.
+- technical implementation
+- write up of the solution for an academic audience","- Business logic (an expertise in an academic or business field). This usually includes specialist knowledge, access to privileged data, legitimacy in the field, an address book.
+","Yourself, External clients (e.g., for someone who contracted you to make the thing), Internal stakeholders (e.g., for another department in your organization), academic community, open source community",specialized audiences or the random visitor on the webpage/the reader.,More often than not,"- satisfaction of the client (""thk you this is great"")
+- when a viz helps a paper getting accepted
+- when students get a ""mathematical"" enunciate straight away with a viz
+- when I get my Gephi plugins downloaded hundreds of times (yey!!)
+- when I get papers with viz cited (not as often as I'd wish...)
+- when I enjoy what I created, even if nobody uses it.
+",,"Yes, use my name","Yes, share my raw responses with others","Yes, I would love to hear from you",Clement Levallois
+"May 1, 2014 9:24 AM",N/A,Visualization Research & Design,Work with a research team doing visualization design,100,2,"Most of my work is focused on visualizing network maps, and I am still working on educating the rest of my organization on what exactly that means. Network mapping is relational. It requires data that contains a relationship or interaction between two entities. As new ideas/projects are passed by me the first thing I do is assess whether or not this particular question involves a relationship, and whether or not that relationship is captured by the data (often people simply like the look of network maps, or the idea of them and wish to apply them to data that isn't appropriate to that kind of visualization). Once I've determined that the data and the visualization method are compatible I get to the real work. Starting off I just play around with the data (usual before spending a lot of time cleaning it up) I bounce between different programs from excel or tableau to more advanced network analysis software trying out different arrangements and filters looking for something of interest that warrants closer inspection, or as I'm often trying new software, simply testing the limitations and capabilities of a program. Since I am frequently receiving data that has been gathered by a different group within the organization a lot of the early exploration is spent just going through the data to understand how it was collected and exactly how it relates to itself. Once I have a handle on the underlying relationships of the data and an idea of what I want to show I then begin properly cleaning and formatting the data to create a refined data set intended for a particular visualization. From there it becomes fairly straight forward (relatively speaking), although there will usually be another round of exploration with different settings and filters as they respond to the revised data. Once the structure of the visualization is in place, the focus shifts to communication and dissemination. How will I the insight be shared with a broad range of disciplines? How can visual elements (scale, color, etc.) help guide the viewer to a point of interest within the larger context of the visualization?",knowledge of social network analysis; network mapping technical skills; design aesthetic,"Use of survey instrumentation and regulations surrounding the use of human subjects in surveys. My work deals with not only understanding the integration, innovation and general dynamic of a multidisciplinary research team on a social analytical level, but I am also a collaborator on the project's intended research in social-ecological systems and thus rely on a broad range of expertise from people in fields very different from mine: biology, ecology, geography, etc. (you name it, this project either has it, or probably needs it)","External clients (e.g., for someone who contracted you to make the thing), Internal stakeholders (e.g., for another department in your organization)",Researchers,More often than not,"In my work I mainly see a ""success"" visualization as something that gets a conversation going. The visualizations I produce are rarely, if ever, the end all design, but if they get people excited and asking questions about the limitations and potential of that kind of visualization then they were a success. If they instigate a new collaboration or entice deeper exploration of that particular concept than they were a great success. ",,"Yes, use my name","Yes, share my raw responses with others","Yes, I would love to hear from you",Jocelyne Helbling
+"May 2, 2014 2:29 PM",,Datalizer,"""I design interactive scenarios in which data could be blended together to raise their informative value in a simple and intuitive way.""
+After that I would say: ""before all that beauty I identify
+, collect, clean, structure data... the delicate and crucial phase of the job.""",> 40000,15,"I work in the R&D department of a telecommunication
+ operator, my primary occupation is to develop prototypes explaining new technologies or methods in information visualisation. 
+The first step in our working process is related to data, and comprises identification, collection, validation, cleaning, structuring.
+In the second phase, as we usually have to manage with great amount of data, we have to define interfaces to that data (api) and the surrounding architecture.
+In the third phase we start designing some contexts and metaphors
+suitable for the data in various use cases. After that a pruning phase is applied based on usability factors and use case priority.
+Then we fall into some technological steps where we have to define which end platforms to use, which interaction is needed, which tools better fit to the deign requirements and which skills are available.
+At that point we can select the more innovative use cases to develop using the newest technologies and start to work on them.
+
+In the design phase we tend to follow metaphors that are as natural as possible and starting form what can be considered the state of the art (if possible) we try to move over to new areas, concepts or ways of interaction. 
+We tend to preserve typical features in the data and to emphasise them in the visualisation, we carefully choose visualisation forms, colours, dimensions and animations based on metaphors people well know. ",I think I make available my coding expertise and the newer about design and interaction together with the pleasure I have to design information visualisation components.,"The team is not large and count mainly on programmers, so we collaborate with universities to get the missing expertise's like interaction design and data management.
+","Yourself, Internal stakeholders (e.g., for another department in your organization)",internal audience,About half the time,Success is to be defined but we consider ourself successful when the audience is stimulated to ask about the visualisation or about the data.,,"Yes, use my name","Yes, share my raw responses with others","Yes, I would love to hear from you",Luca Bardone
+"May 3, 2014 7:10 AM",Bioinformatician,Data Scientist,I visualize data to reveal patterns and do further analysis for understanding the mechanisms of biological processes.,30,5,"I usually start with Matlab to get descriptive graphs, then move to Cytoscape if I believe there is some interaction information involved. Then, to polish, I customize the graphs and add colors. Sometimes, I use D3 to create a web-based interactive graph, when necessary.","I play with data using Perl&Python (I'm a Perl guy moving to Python), then visualize data mostly using Matlab (and sometimes R, usually when I deal with reading a batch of files). I create small scripts to import my data to Cytoscape, and sometimes I directly code in JavaScript/D3. In addition, I use my statistics knowledge for basic tasks and add some Bayes statistics for further analysis. I do not use ML since I have only theoretical information on that field.","I'm the head of my team, and I try to share my knowledge with my team most of the time. Besides, they usually help me doing routine file format conversions and visualizing data using Cytoscape.","Yourself, External clients (e.g., for someone who contracted you to make the thing), Internal stakeholders (e.g., for another department in your organization)",It depends,More often than not,"If I can show the image in my mind to others through visualization and story telling, I believe that I am successful. This usually involves presenting each data analysis step to the client using graphs and interactive visualizations.
+ ","May be the size of data that is dealt with might be a question. Also, a question for clarifying the extent of graphical design skills to be put on the process might be another question. Lastly, details of the media for presenting the visualization (surface, size, interactivity etc.) might be another question.","Yes, use my name","Yes, share my raw responses with others","Yes, I would love to hear from you",Ahmet R. Ozturk
+"May 4, 2014 2:16 AM",senior analyst,number cruncher,"I look at all the information we have, then try and find new things in that information. I make sure the company is evolving in the right direction",500,10,"I use a mix of tools, whatever works best for the situation. R, python, latex, tableau, ms office, d3, inkscape.
+
+Usually do data discovery and exploratory visualisation in r. Then use other tools if I need to make it look nicer, add interactivity or compatibility with other people's systems (ms office)","stats, coding, number crunching, domain knowledge, communication to others and data viz best practice","data storage and warehousing team
+
+Design team
+
+Other people have information on how the data was logged technically","Yourself, External clients (e.g., for someone who contracted you to make the thing), Internal stakeholders (e.g., for another department in your organization)","wider company. general public through news articles, blogs and conferences",More often than not,Something that makes it easy to understand a complex idea,,"Yes, use my name","Yes, share my raw responses with others","Yes, I would love to hear from you",Ewan Nicolson
+"May 5, 2014 5:53 AM",Business Analyst,Data Visualization Specialist,Make sense of data so more important people can make informed decisions and ask better questions about theirbusiness.,"70,000+",6,"For a couple years now I have followed process first authored by Andy Kirk in ""Data Visualization: A Successful Design Process"" with minor alterations
+1. Explore the data somewhat blindly searching for nuggets of interesting information.
+2. Understand what business wants
+3. Sketch my vision out on paper
+4. Explore the data again for nuggets
+5. Build out visualization","Data Exploration, Data Manipulation (calculations), Design Expertise, Tool Expertise, UX Expertise",Typically rely on others only for data management / accessibility and Advance Analytical Modeling,"Internal stakeholders (e.g., for another department in your organization)","directors, VPs, leadership",More often than not,Visualizations that are trusted and adopted and ultimately drive action or inaction,"What tools do you use?
+Do you do more with dashboards, reports, infographics, data art, etc.
+How long have you been in this field?
+Who do you look up to in this field?","Yes, use my name","Yes, share my raw responses with others","Yes, I would love to hear from you",Kevin Taylor
+"May 5, 2014 8:51 AM",Data Editor,Web Developer,"I build things for the newspaper, the San Antonio Express-News, using public data.  I also perform data analysis for news stories and projects and sometimes I make graphs. ",150,4,,,,"Yourself, External clients (e.g., for someone who contracted you to make the thing), Internal stakeholders (e.g., for another department in your organization)",general public,About half the time,"For my bosses, pageviews and traction in the daily news cycle.  For me, I learned stuff and I am happy with the project's outcome taking into account what I learned and where I was at when I started.  ",,"Yes, use my name","Yes, share my raw responses with others","Yes, I would love to hear from you",Joe Kokenge
+"May 5, 2014 8:58 AM",Junior Marketing Analyst,Analyst/Data Guy,Companies ask me to take a look at their numbers and I turn those numbers into reports and pretty pictures. I also tell them who would be good to sell things to.,11,4,"We'll take a dump (lol) of the data from a database or somesuch, do some preliminary analysis with Excel, SAS or Python-pandas and then once we have some top-line stats we'll mock up some D3 graphs to either go into a HTML/Javascript presentation or into an iPython notebook.","I brought D3 to the table via the seminal work ""Interactive Data Visualisation for the Web"" which spurred the change from powerpoint and excel to fancy swooshy wooshy web solutions. Otherwise I just do a lot of grunt work, trying to make everything fit together, mashing up data where needed and running code when nobody else wants to.","These people have been in analysis since the dawn of time and know much more of the high level stuff, albeit locked into the old languages and ways of doing things. Now they're in a start-up/consultancy there's much more of a need to try new things, look as good as possible and to be much more effective with less manpower for many tasks.","External clients (e.g., for someone who contracted you to make the thing)",Marketing peeps and board/executive dudes,More often than not,"People can talk to you about your work as if they understood it and don't focus too much on petty details or miss critical points entirely. Being understood is a subtle beast, but one that is ultimately rewarding for everyone involved.","How easy was it to learn data visualisation? Well it was a rough ride trying to get old school analysts on board with the idea of open source and all that, but as soon as you have everyone on your side things are pretty damn sweet. I was also able to slip in some version control (git) which they scarily hadn't been using before.","Yes, use my name","Yes, share my raw responses with others","Yes, I would love to hear from you",Will Goulden
+"May 5, 2014 10:03 AM",Electrical Civil Engineering,Project Engineering,My job it's about scientific and ambiental data,60,5,"Get data from scitific station, save in a file read and charge on a database. Then i'm just working in a method to visualize that","Telemetric, gnu linux user",ambiental people,"External clients (e.g., for someone who contracted you to make the thing), Internal stakeholders (e.g., for another department in your organization)",normal user,About half the time,a normal user can understand what see,about usability,"Yes, use my name","Yes, share my raw responses with others","Yes, I would love to hear from you",David
+"May 6, 2014 2:46 AM",Media developer,Project manager and developer,"Did you read the story XXX? Yeah, I made all that stuff with the charts, maps and video.",120,5,"An editor figures out a story needs some ""digital stuff"", and asks if we have the time to do something. Preferably right now. But in an hour will do.
+Then we evaluate what kind of data or viz is possible - is it a fixed dataset, something that would be good to repeat, or does it need user data.
+Then a quick mental inventory of what we have ready made, and any recent ideas from bl.ocks or other media companies.
+Make a first cut based on the state of the data, discuss it quickly with the journalist, and revise. 
+Then adapt for mobile and test ","Datamanagement, developement, 'good enough' design","Writing, storytelling, structure, design (assets and ideas)","Internal stakeholders (e.g., for another department in your organization)",Readers,About half the time,"Delivery on time
+Actual useage by readers of the story
+Reusable code or components","industry - working in media is probably a bit different from more ""internal"" work (do that as well in terms of dashboards and reports, very different process compared to the news cycle)","No, keep my response anonymous","Yes, share my raw responses with others","Yes, I would love to hear from you",Atleb
+"May 6, 2014 11:17 AM",no title,web developer,"I say I work with financial data, exemplifying with some of the banks that I work with, and it will be somewhat apparent to them what I do","25 in my office, approx. 3000 worldwide",8,"Really not as much time on the vizualisation process as I would wish. Client requests dictates and our in house standard graphical tools, which have been developed by people who don't care so much about the actual vizualisation of the data.","project management, some web development, database development and to some extent up sales.",web development,"External clients (e.g., for someone who contracted you to make the thing)",retail investors,About half the time,"The comunicate the data message. Not ambiguous, etc",,"Yes, use my name","Yes, share my raw responses with others","Yes, I would love to hear from you",JakobW
+"May 6, 2014 4:33 PM",Statistician,Statistician,"I help people make sense of data. And then I typically think of a way that statistics applies to that person's field of expertise. If it's medical, I talk about patient flows and electronic medical records. If I'm not sure what that person's background is, I point out everyday applications like recommendation systems and government policy.",1,1,"1. Summary charts to look at distributions, obvious patterns and relationships, etc.
+
+2. Traditional analysis... methods of course depend on data type.
+
+3. Final graphics. I make some interactive things, but if I had a specialty it'd be static statistical graphics, which I produce in R and polish in Illustrator.
+
+
+I iterate between (1) and (2). I spend maybe 80% in (2) and the rest of the time between (1) and (3). So the visualization part in total maybe 20%. Oh, and I'm gonna clump data formatting, etc into (2).",It's just me usually so (1) through (3). Sometimes I just lend a hand for (2).,"Context and background for the data, or if it's for an outside publication, the client usually has a style they want to maintain.","Yourself, External clients (e.g., for someone who contracted you to make the thing)",Me,More often than not,"If I'm able to satisfy my curiosity, I'm good. A bump in pageviews from a wide audience is fun to watch but just a bonus. ",,"Yes, use my name","Yes, share my raw responses with others","Yes, I would love to hear from you",Nathan
+"May 13, 2014 2:38 PM","Manager, User Experience Design",User Experience Design Manager,"I make products easy and intuitive to use, so much so that I can give people time back into their lives. My focus is around Data and how to take the complex/dense information and re-visualize easy to parse and comprehend.","6,000K",10,"Identify the (in order)…
+1. problem
+2. symptoms/causes of the problem
+3. user(s)
+4. platform, if applicable
+5. technology/tools involved
+6. familiar elements/metaphors in life which are all around us to create solutions
+
+We then…
+7. whiteboard/brainstorm/visualize
+8. present solution(s) to users to garner feedback
+9. iterate from feedback
+10. repeat steps 7-10 until solution is solid/nailed/complete where nothing can/should be added/taken away.","Lead brainstorming at a high level to enable broader/holistic deep-dives, simplification, minimalism, sophisticated elegant solutions, getting people to step/think outside the box, breaking down complex information into pithy representations, pitch ideas, evangelize, visualize, dream big, and execute.","Contrasting perspectives around solutions, open-mindedness around new methodologies on how to portray information, research, accessibility, pitching ideas, visualization, breaking down complex information into pithy representations, execution, and evangelizing.","Yourself, External clients (e.g., for someone who contracted you to make the thing), Internal stakeholders (e.g., for another department in your organization)",Power users & Non-technical users,More often than not,"When the user no longer has to think about *what* they are doing nor *how* to do it, with speed.",What is Data Viz mean to you?,"Yes, use my name","Yes, share my raw responses with others","Yes, I would love to hear from you",Erin Delacriox
+"May 14, 2014 2:30 PM",Member of Technical Staff,Code monkey,I code pretty things.,50,4,"At work, we have PM's and UX designers so by the time the project gets to me, the creative process is pretty much over.  Thus, I will describe my side projects instead.
+
+For any of my dataviz side projects, I start with some questions: what do I want to know?  What do I want to ask this dataset I have, or what kind of dataset do I want to get?  From that question, I start playing with the data.  I might import it into the browser and start building very rough prototypes that might shed light on my questions, or I might just do some simple processing in terminal to see the numbers.
+
+Once I have a rough idea of what the answer to my question might be, I start sketching out ideas of how I want to lay out my data.  Who is my audience?  What kind of questions would they have?  What would they care about seeing?  What kind of story is the data trying to tell, and how can I present my visualizations so that the story will flow seamlessly?
+
+After that, it's just building and iterating, and asking friends what they think.  I'm very appreciative of my friends, developers and non-developers alike, who give me feedback; they're very important to me.
+
+The process might take months, and I might never feel like they're ready (and actually, most of them are just in the pipeline), but I learn a lot from the process every time nonetheless.","I've been drawing and painting since I was old enough to hold a pencil and paintbrush.  I took art through middle school and high school, so I have the principles of art ingrained in me.  I started playing with Photoshop in middle school building simple HTML websites, and picked up Illustrator early in college and participated in a graphic design club.  I've paid a lot of attention to artwork and design since I was little, and have built a decent sense of aesthetics because of it, which helps me in my UI/design/mock-ups phase.  (Though I have to say that my design is still sorely lacking because of a lack of practice).
+
+I studied business while in college, and did a lot of case competitions and took classes that asked me to analyze my target market.  From there, I learned how to ask meaningful questions, which helps me fixate on a goal and cut out the fluff. 
+
+Finally, I minored in computer science and have been working in the industry as a software developer for the past 2 years, so I'm very aware of most of the popular Javascript frameworks.  This gives me a really good advantage on being able to execute on my ideas.","Most of my side projects have been solo, since it's been pretty tough coordinating schedules.  I've worked on a side project with Ian (enjalot) and I've very much enjoyed bouncing ideas off of him and vice versa.  For that project, I concentrated on the front-end, while he concentrated on the back-end and API calls.  It was great working with someone that understood D3 so well, since he knew exactly what data I needed and the process was seamless.
+
+At work, we work on a security product.  I rely a lot on others who have far more security and networking expertise than I do, so that I can visualize the data in a way that makes sense.  It's always extremely fun to go back to back-end coworker and say, hey, is this the way you were thinking about it?  And getting an affirmative.  (It's just as fun getting a negative, and figuring out how we can bridge the gap).  I also work closely with our UX designer, bouncing ideas off each other on how to implement the product in a way that makes sense to the user.  I learn a lot from my coworkers, and it's exciting to be able to bring that knowledge into my side projects, and vice versa.","Yourself, The company's customers",It varies on the project.,More often than not,"Am I happy with it?  Did I get good feedback?  If I publish it to the world, will I be proud to have my name stamped on it?","What drew you into data visualization, and what keeps you to it?","Yes, use my name","Yes, share my raw responses with others","Yes, I would love to hear from you",Shirley Wu
+"May 17, 2014 10:54 AM",Senior Graphic Designer,Graphic designer,Graphic design. Mostly information design - charts and maps on the internet,150,5,"Receive an email request with text, data, concept. Analyze best approach. Work with request or as needed. Create. Approval process. Average time 2 hrs from request to delivery. ",Visual comm principles. Data and info design. Analysis. Graphic design. Speed. Storytelling. Critical selection of relevant info. ,Same as above. ,"Yourself, External clients (e.g., for someone who contracted you to make the thing), Internal stakeholders (e.g., for another department in your organization)",Website subscribers and business clients,More often than not,There was nothing more to improve given the constraints. ,,"Yes, use my name","Yes, share my raw responses with others","Yes, I would love to hear from you",TJ Lensing
+"May 19, 2014 8:25 PM",Chief Analyst,Data analyst,"I have two roles: First, I try to use the data we collect to help our company make better decisions. Second, I make data visualizations for our company blog and for our internal tools.",8,2,"This is my process for visualizations for our company blog:
+
+1. I usually start with a question. What do I want to know? What do I want to figure out? It usually starts with some curiosity (I wonder which legs of my MUNI ride are the most crowded...I wonder if the NBA playoffs really take longer than other playoffs...etc.)
+
+2. Once I have a general question, I start thinking about how I want to present it, and what data is needed for that. I usually poke around existing visualizations to get some ideas, and think about how I'd want to modify them to fit what I'm trying to show.
+
+3. I next try to find data. Sometime the data is easily available. Many times, however, it takes some digging. If that's the case, I usually write python scripts to scrape the data and clean it up.
+
+4. At this point I start trying to build a visualization. It usually starts with something that already exists, and I first build the js components that manipulate the data to what the visualization requires. Then I take that data and put it in a basic frame of the visualization that I want. After I have something displaying the data, I mess around with it for a while based on how the visualization turned out (that method of displaying it may not show the point I was trying to convey; it may be too messy; and a bunch of other potential problems). Once I feel like the core of the visualization is there, I add in the interactive elements if they need to be there. I finally do all of the styling to make it look halfway decent.
+
+It's worth noting that at most of these points, I could fall back to a previous step. For example, the data I need to answer the question may not be available so I have to think of a different way to approach it, or the visualization may simply not work once I have a data, and I may need to take a different approach or aggregate it in a different way. In reality, this process is really more of a series of loops than steps.
+","I'm the only one who does this, so I usually work alone. I have no particular expertise in any of this (I'm a data analyst and not really an engineer), so I contribute to it, but I wouldn't call my contributions those of an expert...","Sadly, not much. ",A company blog,The internets,About half the time,"Success is making something that uncovers something interesting. I want who see it to be able to quickly understand it, to want to interact with it, and to want learn something from it. For me, a good visualization is like an elegant mathematical proof: it creatively guides people through a complicated problem with deceptive simplicity.","When the results are released, I'd love to see examples of people's work (and particularly, something they made they loved and something that they didn't like). I'd like to see if some types of work are better suited for one process, and if other types of work are better suited for others.","Yes, use my name","Yes, share my raw responses with others","Yes, I would love to hear from you",Benn Stancil
+"Jun 25, 2014 5:21 PM",Technical Evangelist,database software expert,explain technology in ways to make it easier to understand to a broad audiance,200,10,"I use visualizations to answer questions. First I have to identify what the questions are and then what the answers could be and what data would answer those questions. Then I try to represent the data in a way that filters out the noise , concentrates on the pertinent data and makes it easier to identify the answers quickly visually. It's an iterative process. Often in the investigation I refine and change what the questions are, what the answers are and what data is required to answer the questions. Along with that iterative process I design graphic representations. I find that simple representations are the best generally. Line charts, stacked area charts though trees and histograms and even heatmaps are occasionally useful.  I'm happy to break the ""rules"" if it makes understanding the data easier. People can argue that stacked area charts can be misleading. Fine, but does it make analysis easier and correct or more difficult and incorrect?","Generally I work with performance data. Database performance. SQL query performance. I/O performance. And generally I work with the whole stack - deciding what data to collect, how to collected it, how to aggregate it and how to visualize it.","haha - I like to be in control. Must say I do most of it on my own. I like input of others but generally don't find others to be that adept at visualizing data surprisingly. Seems pretty straight forward but few seem good at it.
+Mainly I try to browse the industry and look for visualizations that inspire and catalyze my own ideas.  Most everything I do is on the shoulders of previous work. It's mainly minor advances on something that already exists.  ","External clients (e.g., for someone who contracted you to make the thing), Internal stakeholders (e.g., for another department in your organization)",customers of our software,More often than not,How much it helps the intended audience. ,Pretty broad domain you are targeting here. It's hard to know what data to provide you that would help move your investigation forward. I bet almost everyone has a different approach. ,"Yes, use my name","Yes, share my raw responses with others","Yes, I would love to hear from you",Kyle Hailey
+"Jul 15, 2014 5:14 AM","Managing Director (could have been The Daddy, Mr Big, Mr X etc.)",Data visualisation specialist,"Something like... ""I am a freelance teacher and consultant working in data visualisation"". And then we start the ""what's that, then"" dance. Another interesting scenario is the Immigration/Security when arriving in the US. That is the most stressful situation I find to have to explain what I do.",1,1,"(Accepting there are loads of variable entry points to a project, accepting there is loads of iteration etc.)
+
+1. ESTABLISH THE VISUALISATION’S PURPOSE: An alternative phrase to context but one that covers the same definition of starting point thinking (http://dictionary.reference.com/browse/purpose). Establish clarity about: 
+(a) Reason: Why are we doing this project? What curiosity, opportunity or problem are we responding to? What are the requirements? What are the key factors: format, timescales, pressures, rules etc.?
+(b) Intent: What experience are we facilitating? What are we hoping to accomplish? I define an intent 2x2 matrix based on two dimensions - Tone (aiming for read data or feel data) and function (exploratory or explanatory) - to establish at this earliest stage a degree of focus about the likely direction of travel creatively speaking.
+(c) Mental visualisations: sketching instinctive ideas that inevitably form in mind. May not prove to be viable but good to embrace instincts - particularly when collaborating
+
+2. ACQUIRE, FAMILIARISE WITH AND PREPARE YOUR DATA: Get your data, learn what it 'means', examine its physicality, transform it for quality and for analysis, consolidate with other data/info for context/to enhance. Begin researching more about the subject/data to enhance your intimate familiarity with the task.
+
+3. DETERMINE THE EDITORIAL FOCUS OF YOUR SUBJECT MATTER: Really home in on the persona of your target audience - if you were them, what you want to know and discover about this subject? What data questions will the task/project aim to answer? Start to undertake exploratory visual and statistical analysis of the data, moving from looking at it (mechanical nature of stage 2) towards seeing it for yourself. Stages 2 and 3 very iterative/related.
+
+4. CONCEIVE YOUR DESIGN: DATA REPRESENTATION AND PRESENTATION: Building from the evidence, preparation and discovery of the first 3 stages, now we work through the anatomy of our visualisation and determine the choices across each layer: chart types (representation), colour, interactivity/animation, annotation and layout (all presentation).
+
+5. CONSTRUCT AND COMPLETE YOUR DESIGN SOLUTION: The ideas and ambitions of stage 4 now come into the reckoning or the reality of skills, resources and constraints. Moving towards prototype building, evaluation, refinement, testing, launch and post-eval.
+
+Rinse and repeat...","I would say I can work through the full repertoire of skills (see my 8 hats article http://visualisingdata.com/index.php/2012/06/article-the-8-hats-of-data-visualisation-design/) but lack advance programming skills to create sophisticated interactives (and automate the production of some static concepts). I would like to think I am design-savvy but not in any trained way. I typically would focus on coordinating projects, coming up with ideas/concepts, visual/data analysis, client communication, requirements gathering etc.","As a freelancer, any other skills will be outsourced","Yourself, External clients (e.g., for someone who contracted you to make the thing)",Varied though dominated by internal organisation audience (hence my thin public portfolio of work),About half the time,"(1) Client is happy: their requirements have been met OR
+(1) The consumers of the work are happy: the ultimate
+(2) I am happier than they are: the clients requirements might have been dumb or at best unsophisticated, the audience may not appreciate what has gone in to a task. If I'm still happy then it means I didn't sell my soul to the devil and I effectively rationalised all the options I was faced with in light of the inevitable constraints",Perhaps one that probed the fact I feel there are some people who feel a process approach to visualisation is too systematic/robotic (need to embrace creativity and instinct above all) and others (like me and I believe you too) who fundamentally believe in its importance but recognise it is about guideline thinking and not a dogmatic procedure.,"Yes, use my name","Yes, share my raw responses with others","Yes, I would love to hear from you",Andy Kirk
