@@ -17,5 +17,6 @@ This repository archives survey responses and resources gathered during my resea
 
 ### Other links
 
+- [Video from my keynote at The Graphical Web 2014](https://www.youtube.com/watch?v=ZMB_6OeCEP8), “The Keys to a Successful Data Design Process”
 - [Slides for my talk at OSCON](https://speakerdeck.com/alignedleft/open-source-your-data-design-process), “Open Source Your Data Design Process”
 - [Take the Data Vis Process Survey!](https://docs.google.com/forms/d/12kr9SpYCHg0YYIJJJDj0t8V8Tt79cVhB-voX1rv9RMs/viewform)
